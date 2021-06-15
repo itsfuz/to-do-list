@@ -1,4 +1,4 @@
-button {
+.SWbuttons.swbtn {
     width: 100px;
     height: 30px;
     border: 0px;
@@ -18,7 +18,7 @@ button {
     color: #35455d;
 }
 
-.buttons{
+.SWbuttons{
     position: absolute;
     top: 55%;
     left: 50%;
